@@ -3,6 +3,18 @@ body{
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 400;
 }
+/* Custom CSS for auto height and width */
+.img-auto {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .custom-border {
+    border: 2px solid #000; /* Customize the border color and thickness */
+    border-radius: 8px; /* Optional: Add border radius for rounded corners */
+  }
+  
 /* styling menu icon */
 .nav-menu{
     border: none;
